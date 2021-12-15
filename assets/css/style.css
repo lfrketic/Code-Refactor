@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* For the most part, I reduced the number of class attributes.  I created and focused my styling on the semantic codes in the header, main, section, aside, and footer elements. */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
