@@ -13,6 +13,10 @@ My second step was a review of the W3 school's semantic html tags.  I developed 
 
 As I completed each of the substitutions, I observed the corresponding css code.  I used the help of my tutor (Juan Delgado)to assist me with the css changes.  My initial attempt was too accomodative to the original div tags.  With Juan's help, I was able to reduce much of the style code by almost 70% by using style attributes focused on elements and not the class.  
 
+The final code resembled the required image exactly. The site is viewable at https://github.com/lfrketic/Code-Refactor.git (See the following image for a replica:
+
+ ./Assets/01-html-css-git-homework-demo.png)
+
 I enjoyed the project.  The process of changing code provided me with an opportunity to build confidence with html and css.  
 
 ## Assessment
