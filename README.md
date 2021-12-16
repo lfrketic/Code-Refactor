@@ -23,9 +23,9 @@ I enjoyed the project.  The process of changing code provided me with an opportu
 
 In order to assess my ability to apply semantic html code in lieu of the more generic html, I am providing the following resources:
 
-* The URL of the deployed application: https://lfrketic.github.io/Code-Refactor/
+* The URL of the deployed application: https://lfrketic.github.io/Frketics-First-Code-Refactor/
 
-* The URL of the GitHub repository: https://github.com/lfrketic/Code-Refactor.git 
+* The URL of the GitHub repository: https://github.com/lfrketic/Frketics-First-Code-Refactor
 
 
 ---
